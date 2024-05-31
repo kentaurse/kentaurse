@@ -1,5 +1,12 @@
 # 💫 About Me:
-👋 Hi, I’m Ethan Tan, a full-stack engineer passionate about Blockchain and web development. I love building innovative solutions that blend cutting-edge technologies with elegant design principles. Currently, I am exploring new technologies and refining my skills in both front-end and back-end development.<br>👀 Interests: Blockchain and Web development.<br>🌱 Currently Learning: Advanced smart contract development and serverless architectures.<br>💞️ Collaboration: Open to collaborating on exciting projects related to Blockchain or web development. Let's build something amazing together!<br>📫 Contact: Reach me at kentaurse0212@gmail.com.<br>😄 Pronouns: he/him<br>⚡ Fun Fact: I once built a web application that visualizes Blockchain transactions in real-time.
+
+- 👋 Hi, I’m Ethan Tan, a full-stack engineer passionate about Blockchain and web development. I love building innovative solutions that blend cutting-edge technologies with elegant design principles. Currently, I am exploring new technologies and refining my skills in both front-end and back-end development.
+- 👀 Interests: Blockchain and Web development.
+- 🌱 Currently Learning: Advanced smart contract development and serverless architectures.
+- 💞️ Collaboration: Open to collaborating on exciting projects related to Blockchain or web development. Let's build something amazing together!
+- 📫 Contact: Reach me at kentaurse0212@gmail.com.
+- 😄 Pronouns: he/him
+- ⚡ Fun Fact: I once built a web application that visualizes Blockchain transactions in real-time.
 
 
 # 💻 Tech Stack:
@@ -14,7 +21,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kentaurse&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://github-profile-trophy.vercel.app/?username=kentaurse&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=kentaurse&icon=5&color=6)](https://visitcount.itsvg.in)
