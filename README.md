@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 👋 Hi, I’m Ethan Tan, a full-stack engineer passionate about Blockchain and web development. I love building innovative solutions that blend cutting-edge technologies with elegant design principles. Currently, I am exploring new technologies and refining my skills in both front-end and back-end development.
+- 👋 Hi, I’m James, a full-stack engineer passionate about Blockchain and web development. I love building innovative solutions that blend cutting-edge technologies with elegant design principles. Currently, I am exploring new technologies and refining my skills in both front-end and back-end development.
 - 👀 Interests: Blockchain and Web development.
 - 🌱 Currently Learning: Advanced smart contract development and serverless architectures.
 - 💞️ Collaboration: Open to collaborating on exciting projects related to Blockchain or web development. Let's build something amazing together!
