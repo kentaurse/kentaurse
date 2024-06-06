@@ -1,28 +1,100 @@
-# 💫 About Me:
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Ethan%20Tan!%20👋&fontSize=60&animation=fadeIn&fontAlignY=50)
 
-- 👋 Hi, I’m Ethan Tan, a full-stack engineer passionate about Blockchain and web development. I love building innovative solutions that blend cutting-edge technologies with elegant design principles. Currently, I am exploring new technologies and refining my skills in both front-end and back-end development.
-- 👀 Interests: Blockchain and Web development.
-- 🌱 Currently Learning: Advanced smart contract development and serverless architectures.
-- 💞️ Collaboration: Open to collaborating on exciting projects related to Blockchain or web development. Let's build something amazing together!
-- 📫 Contact: Reach me at kentaurse0212@gmail.com.
-- 😄 Pronouns: he/him
-- ⚡ Fun Fact: I once built a web application that visualizes Blockchain transactions in real-time.
+![divider1](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider1.png)
 
+<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> -->
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-<div align='center'>
-<img src='https://github-readme-stats.vercel.app/api?username=kentaurse&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false' height='175' />
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=kentaurse&theme=vue-dark&hide_border=true' height='175' />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kentaurse&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact' height='175' />
+<h1>
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /> About Me
+</h1>
+​
+<div>
+  <p>
+    I'm a passionate Blockchain Developer and Project Manager based in Singapore. I thrive on working with innovative projects and excel in leading teams to achieve outstanding results.
+  </p>
+  
+  <img alt='coding' align='right' height='300' src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding.gif" />
+
+  <ul>
+  <li>💼 <strong>Current Role</strong>: Blockchain Developer and Project Manager with a proven track record of delivering high-quality solutions.</li>
+  <li>👨‍💼 <strong>Team Leadership</strong>: Leading a talented team of developers, fostering collaboration and innovation.</li>
+  <li>🌱 <strong>Currently Learning</strong>: Advanced smart contract development and decentralized finance (DeFi).</li>
+  <li>💬 <strong>Expertise</strong>: Blockchain, Project Management, Full-stack Development. Open to new ideas and strategic insights.</li>
+  <li>📫 <strong>Contact</strong>: <a href="mailto:kentaurse0212@gmail.com"> kentaurse0212@gmail.com</a></li>
+  <li>😄 <strong>Pronouns</strong>: he/him</li>
+  <li>⚡ <strong>Fun Fact</strong>: Traveled to over 30 countries and enjoy hiking.</li>
+</ul>
+
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kentaurse&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
----
+![divider2](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider2.png)
 
-[![](https://visitcount.itsvg.in/api?id=kentaurse&icon=5&color=6)](https://visitcount.itsvg.in)
+<h1>
+  <img src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/code.gif" width ="30"> Skills
+</h1>
+<div align=''>
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Frameworks and Libraries</th>
+      <th>Databases</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p align="center">
+            <img height='132' alt='language' src="https://skillicons.dev/icons?i=js,ts,nodejs,solidity,cpp,cs,php,py,rust,ruby&perline=5" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img height='132' alt='framework' src="https://skillicons.dev/icons?i=nestjs,express,laravel,django,react,vue,nextjs,nuxtjs,redux,graphql&perline=5" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img height='132' alt='database' src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=2" />
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![divider2](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider2.png)
+
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" /> GitHub Stats
+</h1>
+
+<div align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=kentaurse&theme=onestar&no-frame=true&column=4&row=2"  height='420' alt="@John's trophy stats"/>
+
+<img height='200' alt='total' src="https://github-readme-stats.vercel.app/api?username=kentaurse&show_icons=true&theme=gotham" />
+<img height='200' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentaurse&layout=compact&theme=gotham" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kentaurse&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" height='295' alt="activity graph">
+</div>
+
+![divider1](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider1.png)
+
+<div align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78518&multiline=true&random=false&width=650&height=100&lines=Don't+forget+to+star+the+repositories+you+like;and+follow+me+for+more+updates." alt="Typing SVG" />
+</div>
+
+<div align='center'>
+  <a href='https://visitcount.itsvg.in' >
+    <img src='https://visitcount.itsvg.in/api?id=kentaurse&icon=5&color=6' height='40' />
+  </a>
+  <a href='https://github.com/kentaurse' >
+    <img src='https://img.shields.io/github/followers/kentaurse.svg?style=flat&logo=castro&label=Follow' height='40' />
+  </a>
+  <a href='https://github.com/kentaurse?tab=repositories' >
+    <img src='https://img.shields.io/github/stars/kentaurse.svg?style=flat&logo=starship&logoColor=yellow&label=Star' height='40' />
+  </a>
+</div>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20you%20for%20visiting%20Ethan%20Tan's%20profile!%20🤗​&fontSize=30&animation=fadeIn&fontAlignY=70)
