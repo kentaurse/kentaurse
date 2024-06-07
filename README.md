@@ -73,10 +73,9 @@
 <div align='center'>
 <img src="https://github-profile-trophy.vercel.app/?username=kentaurse&theme=onestar&no-frame=true&column=4&row=2"  height='420' alt="@John's trophy stats"/>
 
-<div align='center'>
-<img align='left' height='195' alt='total' src="https://github-readme-stats.vercel.app/api?username=kentaurse&show_icons=true&theme=gotham" />
-<img align='right' height='195' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentaurse&layout=compact&theme=gotham" />
-</div>
+<img align='left' height='192' alt='total' src="https://github-readme-stats.vercel.app/api?username=kentaurse&show_icons=true&theme=gotham" />
+<img align='right' height='1952' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentaurse&layout=compact&theme=gotham" />
+
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=kentaurse&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" height='295' alt="activity graph"> -->
 </div>
 
