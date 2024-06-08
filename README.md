@@ -71,7 +71,7 @@
 </h1>
 
 <div align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=kentaurse&theme=onestar&no-frame=true&column=4&row=2"  height='420' alt="@John's trophy stats"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kentaurse&theme=onestar&no-frame=true&column=4&row=2"  height='420' alt="@Ethan Tan's trophy stats"/>
 <!-- <div align='center'> -->
 <img align='left' height='190' alt='total' src="https://github-readme-stats.vercel.app/api?username=kentaurse&show_icons=true&theme=gotham" />
   
