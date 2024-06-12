@@ -10,7 +10,7 @@
 ​
 <div>
   <p>
-    I'm a passionate Blockchain Developer and Project Manager based in Singapore. I thrive on working with innovative projects and excel in leading teams to achieve outstanding results.
+    I'm a passionate Blockchain Developer and Project Manager. I thrive on working with innovative projects and excel in leading teams to achieve outstanding results.
   </p>
   
   <img alt='coding' align='right' height='300' src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding.gif" />
