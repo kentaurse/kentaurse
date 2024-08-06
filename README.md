@@ -20,7 +20,7 @@
   <li>👨‍💼 <strong>Team Leadership</strong>: Leading a talented team of developers, fostering collaboration and innovation.</li>
   <li>🌱 <strong>Currently Learning</strong>: Advanced smart contract development and decentralized finance (DeFi).</li>
   <li>💬 <strong>Expertise</strong>: Blockchain, Project Management, Full-stack Development. Open to new ideas and strategic insights.</li>
-  <li>📫 <strong>Contact</strong>: <a href="mailto:kentaurse0212@gmail.com">Gmail</a>, <a href="https://t.me/ethantan1116k">Telegram</a>, <a href="https://join.skype.com/invite/FVUI6gLcYgAE">Skype</a></li>
+  <li>📫 <strong>Contact</strong>: <a href="mailto:kentaurse0212@gmail.com">Gmail</a>, <a href="https://t.me/ethantan1116ksc">Telegram</a>, <a href="https://join.skype.com/invite/FVUI6gLcYgAE">Skype</a></li>
   <li>😄 <strong>Pronouns</strong>: he/him</li>
   <li>⚡ <strong>Fun Fact</strong>: Traveled to over 30 countries and enjoy hiking.</li>
 </ul>
