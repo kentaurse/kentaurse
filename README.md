@@ -57,7 +57,7 @@
   </tbody>
 </table>
 </div>
-
+/*
 ![divider2](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider2.png)
 
 <h1>
@@ -71,3 +71,4 @@
 <img align='right' height='190' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentaurse&layout=compact&theme=gotham" />
 
 </div>
+*/
