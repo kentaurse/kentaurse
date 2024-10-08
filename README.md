@@ -57,18 +57,3 @@
   </tbody>
 </table>
 </div>
-/*
-![divider2](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider2.png)
-
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" /> GitHub Stats
-</h1>
-
-<div align='center'>
-
-<img align='left' height='190' alt='total' src="https://github-readme-stats.vercel.app/api?username=kentaurse&show_icons=true&theme=gotham" />
-  
-<img align='right' height='190' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentaurse&layout=compact&theme=gotham" />
-
-</div>
-*/
