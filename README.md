@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Ethan%20Tan!%20👋&fontSize=60&animation=fadeIn&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Hitoshi%20Sasaki!%20👋&fontSize=60&animation=fadeIn&fontAlignY=50)
 
 ![divider1](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider1.png)
 
@@ -71,7 +71,7 @@
 </h1>
 
 <div align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=kentaurse&theme=onestar&no-frame=true&column=4&row=2"  height='420' alt="@Ethan Tan's trophy stats"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kentaurse&theme=onestar&no-frame=true&column=4&row=2"  height='420' alt="@Hitoshi Sasaki's trophy stats"/>
 <!-- <div align='center'> -->
 <img align='left' height='190' alt='total' src="https://github-readme-stats.vercel.app/api?username=kentaurse&show_icons=true&theme=gotham" />
   
@@ -98,4 +98,4 @@
   </a>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20you%20for%20visiting%20Ethan%20Tan's%20profile!%20🤗​&fontSize=30&animation=fadeIn&fontAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20you%20for%20visiting%20Hitoshi%20Sasaki's%20profile!%20🤗​&fontSize=30&animation=fadeIn&fontAlignY=70)
