@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Hitoshi%20Sasaki!%20👋&fontSize=60&animation=fadeIn&fontAlignY=50)
-
-![divider1](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider1.png)
-
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> -->
 
 <h1>
@@ -97,5 +93,3 @@
     <img src='https://img.shields.io/github/stars/kentaurse.svg?style=flat&logo=starship&logoColor=yellow&label=Star' height='40' />
   </a>
 </div>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20you%20for%20visiting%20Hitoshi%20Sasaki's%20profile!%20🤗​&fontSize=30&animation=fadeIn&fontAlignY=70)
