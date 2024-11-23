@@ -67,13 +67,15 @@
 </h1>
 
 <div align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=kentaurse&theme=onestar&no-frame=true&column=4&row=2"  height='420' alt="@Hitoshi Sasaki's trophy stats"/>
-<!-- <div align='center'> -->
-<img align='left' height='190' alt='total' src="https://github-readme-stats.vercel.app/api?username=kentaurse&show_icons=true&theme=gotham" />
-  
-<img align='right' height='190' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentaurse&layout=compact&theme=gotham" />
-<!-- </div> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=kentaurse&theme=onestar&no-frame=true&column=4&row=2"  height='420' alt="@Hitoshi Sasaki's trophy stats"/>
+
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=kentaurse&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" height='295' alt="activity graph"> -->
+</div>
+
+<div align='center' style="display: flex;">
+  <img align='left' height='190' alt='total' src="https://github-readme-stats.vercel.app/api?username=kentaurse&show_icons=true&theme=gotham" />
+    
+  <img align='right' height='190' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentaurse&layout=compact&theme=gotham" />
 </div>
 
 ![divider1](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider1.png)
