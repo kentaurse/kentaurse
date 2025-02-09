@@ -9,7 +9,7 @@
     I'm a passionate Blockchain Developer and Project Manager. I thrive on working with innovative projects and excel in leading teams to achieve outstanding results.
   </p>
   
-  <img alt='coding' align='right' height='300' src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding.gif" />
+  <img alt='coding' align='right' height='300' src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding_gif.gif" />
 
   <ul>
   <li>💼 <strong>Current Role</strong>: Blockchain Developer and Project Manager with a proven track record of delivering high-quality solutions.</li>
@@ -24,10 +24,10 @@
 </div>
 
 
-![divider2](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider2.png)
+![divider](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider.png)
 
 <h1>
-  <img src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/code.gif" width ="30"> Skills
+  <img src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/code_gif.gif" width ="30"> Skills
 </h1>
 <div align=''>
 <table>
@@ -60,7 +60,7 @@
 </table>
 </div>
 
-![divider2](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider2.png)
+![divider](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider.png)
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" /> GitHub Stats
@@ -78,7 +78,7 @@
   <img align='right' height='190' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentaurse&layout=compact&theme=gotham" />
 </div>
 
-![divider1](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider1.png)
+![divider_header](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider_header.png)
 
 <div align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78518&multiline=true&random=false&width=650&height=100&lines=Don't+forget+to+star+the+repositories+you+like;and+follow+me+for+more+updates." alt="Typing SVG" />
